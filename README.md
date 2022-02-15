@@ -2,7 +2,7 @@
 Tool to visualize log 
 
 ## What we want ? 
-- Highlight in red error
+- Highlight error in red
 - filter on level
 - liste of all class 
 - personalize the visulalisation 

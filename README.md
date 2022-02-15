@@ -12,3 +12,4 @@ Tool to visualize log
 - TDD
 - Java
 - Vue ? React ? Angular ? Native ? 
+- Pipeline with Github action
